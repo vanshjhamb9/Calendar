@@ -1,0 +1,8 @@
+
+
+<div>
+    <LocalizationProvider dateAdapter={AdapterDayjs}>
+      <DateCalendar minDate={today} showDaysOutsideCurrentMonth fixedWeekNumber={6} />
+    </LocalizationProvider>
+</div>
+  
